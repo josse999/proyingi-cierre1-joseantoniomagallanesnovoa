@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ffeb73970fb08cb8",
+        "id": "0583f6e6c92110cb",
         "type": "tabs",
         "children": [
           {
-            "id": "f6952851cbe2f297",
+            "id": "a01f626b0c88e4c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "investigacion.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "investigacion"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -188,10 +184,11 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "f6952851cbe2f297",
+  "active": "a01f626b0c88e4c7",
   "lastOpenFiles": [
-    "ideas-proyecto.md",
     "investigacion.md",
-    "README.md"
+    "ideas-proyecto.md",
+    "README.md",
+    "Medidor de humedad para pasto.md"
   ]
 }
